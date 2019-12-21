@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/react-resthooks-example/static/css/main.b100e6da.chunk.css",
+    "main.js": "/react-resthooks-example/static/js/main.a4843c68.chunk.js",
+    "main.js.map": "/react-resthooks-example/static/js/main.a4843c68.chunk.js.map",
+    "runtime-main.js": "/react-resthooks-example/static/js/runtime-main.7f4c32a7.js",
+    "runtime-main.js.map": "/react-resthooks-example/static/js/runtime-main.7f4c32a7.js.map",
+    "static/js/2.9b476d28.chunk.js": "/react-resthooks-example/static/js/2.9b476d28.chunk.js",
+    "static/js/2.9b476d28.chunk.js.map": "/react-resthooks-example/static/js/2.9b476d28.chunk.js.map",
+    "index.html": "/react-resthooks-example/index.html",
+    "precache-manifest.bbd7ea59d22c7e697ca745b4fb1211b2.js": "/react-resthooks-example/precache-manifest.bbd7ea59d22c7e697ca745b4fb1211b2.js",
+    "service-worker.js": "/react-resthooks-example/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/react-resthooks-example/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7f4c32a7.js",
+    "static/js/2.9b476d28.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.a4843c68.chunk.js"
+  ]
+}
